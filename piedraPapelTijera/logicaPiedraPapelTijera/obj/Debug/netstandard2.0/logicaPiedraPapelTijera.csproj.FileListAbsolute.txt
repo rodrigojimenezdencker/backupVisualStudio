@@ -1,0 +1,9 @@
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\bin\Debug\netstandard2.0\logicaPiedraPapelTijera.deps.json
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\bin\Debug\netstandard2.0\logicaPiedraPapelTijera.dll
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\bin\Debug\netstandard2.0\logicaPiedraPapelTijera.pdb
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\obj\Debug\netstandard2.0\logicaPiedraPapelTijera.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\obj\Debug\netstandard2.0\logicaPiedraPapelTijera.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\obj\Debug\netstandard2.0\logicaPiedraPapelTijera.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\obj\Debug\netstandard2.0\logicaPiedraPapelTijera.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\obj\Debug\netstandard2.0\logicaPiedraPapelTijera.dll
+C:\Users\Rodri\source\repos\piedraPapelTijera\logicaPiedraPapelTijera\obj\Debug\netstandard2.0\logicaPiedraPapelTijera.pdb

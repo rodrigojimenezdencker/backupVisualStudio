@@ -1,0 +1,14 @@
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.deps.json
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.runtimeconfig.json
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.runtimeconfig.dev.json
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.dll
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.pdb
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\libreriaObjetos.dll
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\bin\Debug\netcoreapp2.1\libreriaObjetos.pdb
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.csproj.CopyComplete
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.dll
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\consolaPiedraPapelTijera2\obj\Debug\netcoreapp2.1\consolaPiedraPapelTijera2.pdb

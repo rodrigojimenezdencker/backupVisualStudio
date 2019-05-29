@@ -1,0 +1,9 @@
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\bin\Debug\netcoreapp2.1\libreriaObjetos.deps.json
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\bin\Debug\netcoreapp2.1\libreriaObjetos.dll
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\bin\Debug\netcoreapp2.1\libreriaObjetos.pdb
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\obj\Debug\netcoreapp2.1\libreriaObjetos.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\obj\Debug\netcoreapp2.1\libreriaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\obj\Debug\netcoreapp2.1\libreriaObjetos.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\obj\Debug\netcoreapp2.1\libreriaObjetos.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\obj\Debug\netcoreapp2.1\libreriaObjetos.dll
+C:\Users\Rodri\source\repos\consolaPiedraPapelTijera2\libreriaObjetos\obj\Debug\netcoreapp2.1\libreriaObjetos.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\consoleRockPaperScissors.deps.json
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\consoleRockPaperScissors.runtimeconfig.json
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\consoleRockPaperScissors.runtimeconfig.dev.json
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\consoleRockPaperScissors.dll
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\consoleRockPaperScissors.pdb
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\logicRockPaperScissors.dll
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\bin\Debug\netcoreapp2.1\logicRockPaperScissors.pdb
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.csproj.CopyComplete
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.dll
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\consoleRockPaperScissors\obj\Debug\netcoreapp2.1\consoleRockPaperScissors.pdb

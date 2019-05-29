@@ -1,0 +1,9 @@
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\bin\Debug\netcoreapp2.1\logicRockPaperScissors.deps.json
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\bin\Debug\netcoreapp2.1\logicRockPaperScissors.dll
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\bin\Debug\netcoreapp2.1\logicRockPaperScissors.pdb
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\obj\Debug\netcoreapp2.1\logicRockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\obj\Debug\netcoreapp2.1\logicRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\obj\Debug\netcoreapp2.1\logicRockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\obj\Debug\netcoreapp2.1\logicRockPaperScissors.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\obj\Debug\netcoreapp2.1\logicRockPaperScissors.dll
+C:\Users\Rodri\source\repos\PiedraPapelTijeraV3\logicRockPaperScissors\obj\Debug\netcoreapp2.1\logicRockPaperScissors.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleRockPaperScissors", "consoleRockPaperScissors\consoleRockPaperScissors.csproj", "{EB5EB448-1775-43D6-AEE4-0F6F88960E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicRockPaperScissors", "logicRockPaperScissors\logicRockPaperScissors.csproj", "{F4E464A1-3AED-46E3-824F-48DA0C55AD00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5EB448-1775-43D6-AEE4-0F6F88960E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5EB448-1775-43D6-AEE4-0F6F88960E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5EB448-1775-43D6-AEE4-0F6F88960E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5EB448-1775-43D6-AEE4-0F6F88960E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E464A1-3AED-46E3-824F-48DA0C55AD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E464A1-3AED-46E3-824F-48DA0C55AD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E464A1-3AED-46E3-824F-48DA0C55AD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E464A1-3AED-46E3-824F-48DA0C55AD00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B075C68E-257D-411C-B5C4-87D11E140F37}
+	EndGlobalSection
+EndGlobal

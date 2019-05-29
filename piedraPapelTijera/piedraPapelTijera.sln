@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedraPapelTijera", "piedraPapelTijera\piedraPapelTijera.csproj", "{4A6AE3A6-CDE8-43E1-A034-2C437DA820C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicaPiedraPapelTijera", "logicaPiedraPapelTijera\logicaPiedraPapelTijera.csproj", "{4B983BF2-4DC3-4894-AA74-360CE7438148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6AE3A6-CDE8-43E1-A034-2C437DA820C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6AE3A6-CDE8-43E1-A034-2C437DA820C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6AE3A6-CDE8-43E1-A034-2C437DA820C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6AE3A6-CDE8-43E1-A034-2C437DA820C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B983BF2-4DC3-4894-AA74-360CE7438148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B983BF2-4DC3-4894-AA74-360CE7438148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B983BF2-4DC3-4894-AA74-360CE7438148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B983BF2-4DC3-4894-AA74-360CE7438148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE63F8CC-795C-4C25-9FB9-CBC9735FBC94}
+	EndGlobalSection
+EndGlobal

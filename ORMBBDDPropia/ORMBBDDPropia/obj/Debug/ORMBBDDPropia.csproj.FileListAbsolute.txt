@@ -1,0 +1,12 @@
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\ORMBBDDPropia.exe.config
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\ORMBBDDPropia.exe
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\ORMBBDDPropia.pdb
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\EntityFramework.dll
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\EntityFramework.xml
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\obj\Debug\ORMBBDDPropia.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\obj\Debug\ORMBBDDPropia.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\obj\Debug\ORMBBDDPropia.csproj.CopyComplete
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\obj\Debug\ORMBBDDPropia.exe
+C:\Users\Rodri\source\repos\ORMBBDDPropia\ORMBBDDPropia\obj\Debug\ORMBBDDPropia.pdb

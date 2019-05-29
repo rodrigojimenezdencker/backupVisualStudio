@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rodri\\source\\repos\\PiedraPapelTijeraV3\\logicRockPaperScissors\\logicRockPaperScissors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rodri\\source\\repos\\PiedraPapelTijeraV3\\logicRockPaperScissors\\logicRockPaperScissors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodri\\source\\repos\\PiedraPapelTijeraV3\\logicRockPaperScissors\\logicRockPaperScissors.csproj",
+        "projectName": "logicRockPaperScissors",
+        "projectPath": "C:\\Users\\Rodri\\source\\repos\\PiedraPapelTijeraV3\\logicRockPaperScissors\\logicRockPaperScissors.csproj",
+        "packagesPath": "C:\\Users\\Rodri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodri\\source\\repos\\PiedraPapelTijeraV3\\logicRockPaperScissors\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
