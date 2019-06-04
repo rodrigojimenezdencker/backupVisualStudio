@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\bin\Debug\netcoreapp2.1\JuanPabloClase1.deps.json
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\bin\Debug\netcoreapp2.1\JuanPabloClase1.runtimeconfig.json
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\bin\Debug\netcoreapp2.1\JuanPabloClase1.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\bin\Debug\netcoreapp2.1\JuanPabloClase1.dll
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\bin\Debug\netcoreapp2.1\JuanPabloClase1.pdb
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\obj\Debug\netcoreapp2.1\JuanPabloClase1.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\obj\Debug\netcoreapp2.1\JuanPabloClase1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\obj\Debug\netcoreapp2.1\JuanPabloClase1.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\obj\Debug\netcoreapp2.1\JuanPabloClase1.AssemblyInfo.cs
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\obj\Debug\netcoreapp2.1\JuanPabloClase1.dll
+C:\Users\rodri\source\repos\JuanPabloClase1\JuanPabloClase1\obj\Debug\netcoreapp2.1\JuanPabloClase1.pdb
